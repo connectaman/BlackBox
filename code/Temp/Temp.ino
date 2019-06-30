@@ -7,11 +7,11 @@ int led_red=2;
 
 #define DHTTYPE DHT22 // DHT 22 
 
-const char *ssid = "blackbox"; // Your wifi ssid
-const char *password = "blackbox"; //Your wifi password
+const char *ssid = "wifi name"; // Your wifi ssid
+const char *password = "wifi  passowrd"; //Your wifi password
 
 unsigned long myChannelNumber = 704427;
-const char * myWriteAPIKey = "PCDK6CXGO4N9L2DU";
+const char * myWriteAPIKey = "THINK_SPEAK WRITE API KEY";
 
 const char* server = "api.thingspeak.com";
 
